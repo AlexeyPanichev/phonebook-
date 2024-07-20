@@ -1,3 +1,7 @@
+package org.example;
+
 public class PhoneBook {
-    // empty class
-}
+        public int add(String name, String number) {
+            return 0;
+        }
+    }
